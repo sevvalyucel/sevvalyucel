@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lotusdalek
-- 👀 I’m interested in computer science.
+- 👀 I’m interested in computer science. I'm a computer engineering student.
 - 🌱 I’m currently learning c# and algorithms.
 
 <!---
