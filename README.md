@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sevvalyucel
-- 👀 I’m interested in Computer Science. I'm a Computer Engineering student at Erciyes University.
-- 🌱 I’m currently learning C , C# , HTML and algorithms.
+- 👀I'm a Computer Engineering student at Erciyes University.
 
 <!---
 lotusdalek/lotusdalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
