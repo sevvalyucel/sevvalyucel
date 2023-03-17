@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sevvalyucel
+- 👋 Hi, I’m Şevval
 - 👀I'm a Computer Engineering student at Erciyes University.
 
 <!---
