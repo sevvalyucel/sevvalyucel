@@ -22,7 +22,7 @@
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<! --- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) --->
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,8 +44,8 @@
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevaly)  
-[![Gmail](https://img.shields.io/badge/Email-sevvalyucel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sevvalyucel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevvaly)  
+[![Gmail](https://img.shields.io/badge/Email-sevvalyucel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sevvallyucel@gmail.com)
 
 ---
 
