@@ -51,7 +51,6 @@
 
 <p align="center">
 ✨ Thank you for visiting my profile! <br/>
-🌟 Stay tuned for more projects and contributions!
 </p>
 
 <!---
